@@ -1,1 +1,0 @@
-# Sweepstakes AI Backend
