@@ -1,11 +1,11 @@
 // Firebase configuration for push notifications
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAq0c73dOWGIoPFmdH-yZs_Y5REWbVI9Xk",
+  authDomain: "aisweeper-c2b70.firebaseapp.com",
+  projectId: "aisweeper-c2b70",
+  storageBucket: "aisweeper-c2b70.firebasestorage.app",
+  messagingSenderId: "888360501628",
+  appId: "1:888360501628:web:d2195c357c4a7f13cbe4f9"
 };
 
 // Supabase configuration
